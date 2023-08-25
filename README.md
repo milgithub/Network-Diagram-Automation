@@ -24,6 +24,4 @@ You should have excel file as below: (kindly note, it is just for an example, an
 | MS04              | MS225-48-HW Front   | 1          | MR04              | MR42E-HW Top         | 1          |
 | MS04              | MS225-48-HW Front   | 2          | MR05              | MR66-HW Front        | 1          |
 
-Please note that the formatting may vary based on the platform you are using to view the table.
-![image](https://github.com/milgithub/Network-Diagram-Automation/assets/44430737/37326ea8-84fe-4767-9d47-0e24c9832cd2)
 
