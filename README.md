@@ -24,4 +24,8 @@ You should have excel file as below: (kindly note, it is just for an example, an
 | MS04              | MS225-48-HW Front   | 1          | MR04              | MR42E-HW Top         | 1          |
 | MS04              | MS225-48-HW Front   | 2          | MR05              | MR66-HW Front        | 1          |
 
+once you run the script, it will prompt you for the hierarchy so that it can position all devices accordingly.
 
+below is an example for above excel data:
+
+MR01,MR02,MR03,MR04,MR05;MS01,MS02,MS03,MS04;DS01,DS02;MX01,MX02;CE1,CE2;ISP1,ISP2
